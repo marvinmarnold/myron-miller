@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Forty V2",
-    author: "Hunter Chang",
-    description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
+    title: "Myron Miller for District 100",
+    author: "Marvin Arnold",
+    description: "Myron Miller for Lousiana District 100 State Representative"
   },
 	pathPrefix: "/myron-miller",
   plugins: [
